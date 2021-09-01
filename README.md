@@ -5,3 +5,6 @@ My name is Fabian, I’m from Brazil @fabianalmeida. I'm a Computer Engineer, th
 Enthusiast of the best web & mobile development technologies.
 
 Passionate about education and transform enterprise process through programming.
+
+https://medium.com/@fabianalmeida
+
