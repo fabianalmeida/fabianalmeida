@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @fabianalmeida
-- 👀 I’m interested n programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi
 
-<!---
-fabianalmeida/fabianalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Fabian, I’m from Brazil @fabianalmeida. I'm a Computer Engineer, that has been working as a Frontend and Backend developer.
+
+Enthusiast of the best web & mobile development technologies.
+
+Passionate about education and transform enterprise process through programming.
